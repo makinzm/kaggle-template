@@ -7,7 +7,7 @@ cookiecutter を使った kaggle code competition 用のテンプレート
 **install cookiecutter**
 
 ```bash
-pip install cookiecutter
+uv tool install cookiecutter
 ```
 
 **project の作成**
